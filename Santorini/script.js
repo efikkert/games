@@ -19,7 +19,7 @@ const abilities = [
   { name: "Edger", description: "An opponent cannot win by moving into a space on the edge." },
   { name: "Centrist", description: "You may play one additional time, but not on an edge space." },
   { name: "Underdog", description: "If one of your opponent's tokens are higher than the others, it cannot move." },
-  { name: "Homesteader", description: "Opponent tokens cannot play next to your tokens, unless creating a Complete Tower." },
+  { name: "Homesteader", description: "Opponent tokens cannot play next to your tokens, unless creating a completed set." },
   { name: "Tyrant", description: "At the end of your turn, if possible, remove opponent tokens occupying lower color levels next to your tokens." },
   { name: "Collector", description: "At the start of your turn, add any card to your collection. On your turn, play only using cards in your collection." },
   { name: "Fundamentalist", description: "If your token is on the bottom layer and it doesn't move, it may play up to 3 cards." },
